@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Hot Heads: In the Firefight](https://github.com/kbrddestroyer/HotHeads-InTheFirefight)
 
-- 🌱 I’m currently learning **Unreal Engine 5, HLSL, ASP.NET, Blender 3D**
+- 🌱 I’m currently learning **Unreal Engine 5, HLSL, Blender 3D**
 
 - 👨‍💻 All of my projects are available at [https://kbrddestroyer.itch.io](https://kbrddestroyer.itch.io)
 
