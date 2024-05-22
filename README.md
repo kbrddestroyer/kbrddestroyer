@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexey [kbrddestroyer]</h1>
-<h3 align="center">Unity gamedev, C/C++ developer</h3>
+<h3 align="center">Currently I'm Junior Server Developer at Lesta Games</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kbrddestroyer&label=Profile%20views&color=0e75b6&style=flat" alt="kbrddestroyer" /> </p>
 
